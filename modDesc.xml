@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="113">
+    <author>MrMorty92</author>
+    <version>1.0.0.3</version>
+    <title>
+        <en>Extended HUD</en>
+    </title>
+    <description>
+        <en><![CDATA[Extended HUD displays more entries in the Farming Simulator 25 input help panel.
+
+The number of additional entries automatically adapts to the selected UI scale: smaller scales allow more entries, while larger scales use fewer additional rows. The wider panel provides more space for action names and key combinations.
+
+Controls: Uses the game's existing input help controls. Show or hide the help with F1 by default, or with your assigned button. No additional key binding is required.
+
+Version 1.0.0.3:
+- Compatibility adjustments for ModHub checks
+
+Version 1.0.0.2:
+- New mod icon
+- Wider input help panel
+- Native input help toggle retained]]></en>
+        <de><![CDATA[Extended HUD zeigt mehr Einträge in der Steuerungshilfe des Landwirtschafts-Simulators 25 an.
+
+Die Anzahl der zusätzlichen Einträge passt sich automatisch an die gewählte UI-Skalierung an: Kleinere Skalierungen erlauben mehr Einträge, größere Skalierungen verwenden weniger zusätzliche Zeilen. Der breitere Hilfeblock bietet mehr Platz für Aktionsnamen und Tastenkombinationen.
+
+Bedienung: Verwendet die vorhandene Steuerungshilfe des Spiels. Ein- und Ausblenden standardmäßig mit F1 oder mit der zugewiesenen Taste. Es wird keine zusätzliche Tastenbelegung benötigt.
+
+Version 1.0.0.3:
+- Anpassungen für die ModHub-Prüfung
+
+Version 1.0.0.2:
+- Neues Mod-Icon
+- Breiterer Steuerungshilfe-Block
+- Ursprüngliche Steuerung zum Ein- und Ausblenden beibehalten]]></de>
+        <fr><![CDATA[Extended HUD affiche davantage d'entrées dans le panneau d'aide aux commandes de Farming Simulator 25.
+
+Le nombre d'entrées supplémentaires s'adapte automatiquement à l'échelle de l'interface : une échelle plus petite permet d'afficher davantage d'entrées, tandis qu'une échelle plus grande ajoute moins de lignes. Le panneau élargi offre plus de place aux noms des actions et aux combinaisons de touches.
+
+Commandes : Utilise les commandes d'aide existantes du jeu. Par défaut, appuyez sur F1 pour afficher ou masquer l'aide, ou utilisez la touche que vous avez attribuée. Aucune commande supplémentaire n'est nécessaire.
+
+Version 1.0.0.3 :
+- Ajustements pour les contrôles ModHub
+
+Version 1.0.0.2 :
+- Nouvelle icône du mod
+- Panneau d'aide aux commandes élargi
+- Commande d'origine pour afficher ou masquer l'aide conservée]]></fr>
+    </description>
+    <iconFilename>icon_extendedHUD.dds</iconFilename>
+    <multiplayer supported="true" />
+    <extraSourceFiles>
+        <sourceFile filename="ExtendedHUD.lua" />
+    </extraSourceFiles>
+</modDesc>
